@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'jc_qr.wsgi.application'
+WSGI_APPLICATION = 'jc_qr.wsgi.app'
 
 
 # Database
